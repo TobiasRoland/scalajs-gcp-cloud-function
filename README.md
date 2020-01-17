@@ -20,4 +20,4 @@ sbt fullOptJS
 This will generate a single JS file: `./task/scala-2.12/scalajs-gcp-cloud-function-opt.js`, where
 the `helloWorld` function can be invoked from GCP Cloud Functions
 
-[template]: https://github.com/TobiasRoland/scalajs-gcp-cloud-functions.js
+[template]: https://github.com/TobiasRoland/scalajs-gcp-cloud-functions.g8
